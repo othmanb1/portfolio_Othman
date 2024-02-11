@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background-color: #DBDBFF;
+}
+
+html.mycursor {
+    cursor: url("/mon_site-20240206T104321Z-001/mon_site/mes_images/curseur2.svg"), default;
+}
+
+.titre {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    margin-left: 600px;
+}
+
+.parcoursh1 {
+    font-family: 'Bebas Neue', sans-serif;
+    margin-left: 50px;
+    color: #e63946;    
+}
+
+.job {
+    height: 250px;
+    width: auto;
+    margin-left: 1000px;
+    margin-top: -850px;
+    position: absolute;
+}
+
+.bureau {
+    height: 250px;
+    width: auto;
+    margin-left: 1400px;
+    margin-top: -850px;
+    position: absolute;
+}
+
+.pageteam {
+    height: 200px;
+    width: auto;
+    margin-left: 1191px;
+    margin-top: -550px;
+    position: absolute;
+}
+
+.certifcours {
+    font-family: 'Bebas Neue', sans-serif;
+    margin-left: 50px;
+    color: #e63946;    
+}
+
+.acceuil {
+    font-family: 'Bebas Neue', sans-serif;
+    text-decoration: none;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 10px;
+    border-radius: 7px;
+    background: #f5f1ed;
+    width: 120px;
+    height: 50.255px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
